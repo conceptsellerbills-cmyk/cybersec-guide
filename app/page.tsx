@@ -1,5 +1,6 @@
 import { getAllPosts } from "../lib/posts";
 import type { Metadata } from "next";
+import NewsletterForm from '../components/NewsletterForm'
 
 export const metadata: Metadata = {
   title: "Cybersecurity Guides, Tools & Tutorials 2025 — CyberSec Guide",
@@ -350,10 +351,7 @@ export default function HomePage() {
         <div className="newsletter-section">
           <h2>Stay Ahead of Cyber Threats</h2>
           <p>Get weekly security news, tool reviews and actionable defense strategies in your inbox.</p>
-          <div className="newsletter-form">
-            <input className="newsletter-input" type="email" placeholder="your@email.com" />
-            <button className="newsletter-btn">Subscribe →</button>
-          </div>
+          <NewsletterForm />
         </div>
 
         {/* ── CTA ── */}
