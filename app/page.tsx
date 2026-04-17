@@ -5,6 +5,7 @@ import NewsletterForm from '../components/NewsletterForm'
 export const metadata: Metadata = {
   title: "Cybersecurity Guides, Tools & Tutorials 2025 — CyberSec Guide",
   description: "In-depth guides for ethical hacking, network security, privacy tools and digital defense.",
+  alternates: { canonical: "https://www.cybersec-guide.com" },
 };
 
 const STARS = (n: number) => "★".repeat(n) + "☆".repeat(5 - n);
