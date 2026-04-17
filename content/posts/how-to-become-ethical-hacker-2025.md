@@ -13,7 +13,7 @@ Ethical hacking is one of the fastest-growing careers in cybersecurity. Organiza
 
 Ethical hackers are cybersecurity professionals hired to find vulnerabilities in computer systems, networks, and applications before malicious actors can exploit them.
 
-**Common job titles:** Penetration Tester, Red Team Operator, Security Researcher, Vulnerability Analyst, Bug Bounty Hunter
+**Common job titles:** Penetration Tester, Red Team Operator, Security Researcher, Vulnerability Analyst, [Bug Bounty](/best-bug-bounty-programs-platforms-2025) Hunter
 
 **The work involves:** Conducting authorized attacks on client systems, identifying vulnerabilities in networks and web applications, writing detailed reports with remediation recommendations, and staying current with new attack techniques.
 
